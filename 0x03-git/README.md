@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+this readme is updated <<<<<<< HEAD
 My first commit
 =======
 My second commit
